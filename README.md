@@ -1,8 +1,10 @@
-Course: Classical Image Processing
+# Course: Classical Image Processing #
+
 This is a 10-lesson course taught by PhD Chen Sagiv from SagivTech, which focuses on classical computer vision methods with an emphasis on before the DIP (Digital Image Processing) era. 
+
 This course is designed for students who are interested in learning about image processing techniques that have been used for several decades in the field of computer vision.
 
-Course Overview
+# Course Overview #
 The course will cover the following topics:
 
 Introduction to Image Processing
