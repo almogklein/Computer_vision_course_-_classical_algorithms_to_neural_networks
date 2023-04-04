@@ -2,6 +2,7 @@
 
 This is a 10-lesson course taught by PhD Chen Sagiv from SagivTech, which focuses on classical computer vision methods with an emphasis on before the Deep era. 
 
+
 This course is designed for students who are interested in learning about image processing techniques that have been used for several decades in the field of computer vision.
 
 # Course Overview #
