@@ -39,10 +39,8 @@ The course schedule is as follows:
 
 - Lesson 1: Sampling & Quantization
 - Lesson 2: Histogram Equalization, Convolutions, and Denoising
-- Lesson 3: 
-- Lesson 4: 
-- Lesson 5: 
-- Lesson 6: 
+- Lesson 3+4: The Bilateral Filter, Edge Detection, Hough Transform, and Otsu Method
+- Lesson 5+6: Explore the Fourier Transform
 - Lesson 7: 
 - Lesson 8: 
 - Lesson 9: 
